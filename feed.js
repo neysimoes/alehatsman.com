@@ -94,13 +94,8 @@ module.exports = [
     id: 'developer_environment_automation',
     title: 'Developer Enviroment and Automation',
     description:
-      'How to build enviroment which will force you to have right habbits and will make you super productive? What way to compose operation system, apps, terminals, shells, editors, command line tools, compilers, scripts in a way that makes most productive?',
+      'Composing command-line tools into full-featured Developer Environment, using universal navigation shortcuts among all tools.',
     tags: [
-      'dotfiles',
-      'ansible',
-      'iaac',
-      'infrastructure',
-      'provisioning',
       'automation',
       'brew',
       'vim',
@@ -117,6 +112,6 @@ module.exports = [
       'javascript'
     ],
     createdAt: '2019-11-01',
-    public: false
+    public: true
   }
 ]

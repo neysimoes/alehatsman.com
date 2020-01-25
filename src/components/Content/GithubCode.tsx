@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import CodeBlock from './CodeBlock'
+import CodeBlock from "./CodeBlock"
 
 const GithubCode = ({url, codeType}) => {
   const [code, setCode] = useState('')
