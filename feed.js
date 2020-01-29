@@ -1,9 +1,9 @@
 module.exports = [
   {
     id: 'static_blog_generator_using_nextjs_styledcomponents_mdx',
-    title: 'Static blog generator using Next.js, Styled Components, MDX',
+    title: 'Personal Blog using Next.js, TypeScript and ZEIT Now',
     description:
-      "Modern frontend era gave us tons of nice JavaScript tools and libraries like Babel, React, Webpack. Ecosystems give almost infinite possibilities in the hands of developers. Let's create a custom fully functional static site generator with modern JavaScript.",
+      'Constructing a personal blog website utilizing modern frontend technologies with instant deployment, CDN, continues delivery for only 0$ per month.',
     tags: [
       'JavaScript',
       'TypeScript',
